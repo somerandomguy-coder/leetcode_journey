@@ -1,6 +1,6 @@
  # 📝 DSA Batch Log: Week 1, theme: leetcode from zero
 
-## Problem 1: Longest Palindromeic Substring (second visit)
+## Problem 1: Longest Palindromeic Substring (second visit), https://leetcode.com/problems/longest-palindromic-substring
 
 Status: Solved 
 

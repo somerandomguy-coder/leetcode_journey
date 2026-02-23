@@ -1,6 +1,6 @@
  # 📝 DSA Batch Log: Week 1, theme: leetcode from zero
 
-## Problem 1: Longest Palindromeic Substring 
+## Problem 1: Longest Palindromeic Substring, https://leetcode.com/problems/longest-palindromic-substring
 
 Status: Stuck at Level 3 (trying to optimize from O(n^3) to less)
 
