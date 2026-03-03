@@ -1,1 +1,4 @@
 Palindrome = expand from middle
+Process int = % 10 and /= 10 to process each digit 
+
+Streaming: get each value then process it and put it in the result
