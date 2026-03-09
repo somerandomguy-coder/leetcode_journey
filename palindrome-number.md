@@ -45,3 +45,5 @@ public:
 
 ### The "Innovation" Question: 
 is there a better way? without turn it into string ofc
+
+Answer: Yes, if we only stream it halfway (deduce x and until x < palindrome), this way we don't have to check overflow and only go halfway thru
